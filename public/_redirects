@@ -1,7 +1,7 @@
-/               /home
-/culture        /culture
-/blogs/culture  /blogs/culture
-/blogs/religion /blogs/religion
-/blogs/ktm      /blogs/ktm
-/blogs/day      /blogs/day
-/home           /home
+/               /home           200
+/culture        /culture        200 
+/blogs/culture  /blogs/culture  200
+/blogs/religion /blogs/religion 200
+/blogs/ktm      /blogs/ktm      200
+/blogs/day      /blogs/day      200
+/home           /home           200
