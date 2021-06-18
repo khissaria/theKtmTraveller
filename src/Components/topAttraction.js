@@ -28,7 +28,7 @@ const topAttraction = () => {
                 <div className="story-header-container"><svg className="badge-svg">
 
                 </svg>
-                    <div className="story-header-text">Religions in Nepal <br /> “Secular and Liberated”</div>
+                    <div className="story-header-text">Around the City</div>
                     <div className="story-header-location">May 2021: Kathmandu, Nepal</div>
                 </div>
             </header>
